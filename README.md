@@ -17,6 +17,7 @@ I wanted a character sheet that:
 - Auto-calculates functional gameplay stats and displays it all nicely accessible.
 - Has any character info I need readily available so I don't have to check the wiki as much.
 - Fits the medieval fantasy aesthetic of DnD. (Like my tea-stained custom physical character sheets ^.^)
+  
 So here is my attempt at a character sheet that fulfills them all.
 
 
